@@ -24,4 +24,11 @@ Page "Team" opened
     "Team" button click
     "Team" Page Verification
 
+Page "Team" opened
+    [Documentation]  Basic info about test
+    [Tags]  Current
+    Go to Landing Page
+    "Team" button click
+    "Team" Page Verification
+
 *** Keywords ***
