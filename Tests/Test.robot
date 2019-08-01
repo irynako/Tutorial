@@ -12,7 +12,7 @@ Test Teardown  End Test
 *** Test Cases ***
 "Team" menu item present
     [Documentation]  Basic info about test
-    [Tags]  Current
+    [Tags]  In rogress
     Go to Landing Page
     "Team" button present
     "Team" button click
