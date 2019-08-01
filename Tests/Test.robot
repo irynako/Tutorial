@@ -24,4 +24,6 @@ Page "Team" opened
     "Team" button click
     "Team" Page Verification
 
+    #TODO new test
+
 *** Keywords ***
